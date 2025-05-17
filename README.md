@@ -9,10 +9,11 @@ This project explores the causes behind high return rates in the Superstore data
 - Fully interactive dashboard for executive decision-making  
 - Visual storytelling using Tableau's Story feature
 
-## Files Included  
-- `Superstore_Returns_Dashboard.twbx`: Tableau workbook  
-- `Presentation.pdf`: Summary of findings and recommendations  
-- `mockups/`: Folder with hand-drawn dashboard designs
+## 📂 Files Included
+- `Final Draft.pdf` – Written summary and insights from analysis  
+- `Tableau Presentation.mp4` – 3–5 minute screen-recorded walkthrough of the Tableau dashboard  
+- `Mockup_1.jpg`, `Mockup_2.jpg`, `Mockup_3.jpg` – Pen-and-paper dashboard designs  
+- `Dashboard_Template.png` – Screenshot of the Tableau dashboard layout
 
 ## Skills Used  
 Tableau, Data Visualization, Dashboard Design, Business Intelligence, SQL Joins, Analytical Thinking
